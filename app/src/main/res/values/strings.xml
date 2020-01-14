@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About_Me</string>
+    <string name="name">Ezichi Amarachi</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">
+        Hello!
+    \n My name is Ezichi Amarachi.
+        \n
+    \n I love photography and Programming. lol
+    \n I guess you could also say i love the letter P.
+       \n
+    \n You will have to guess how old i am.. Yeah, i said what i said..
+        \n
+    \n Been learning android development for almost half  year now..
+        \n It has been cool, but it has also been a really bumpy ride
+    </string>
+    <string name="done">Done</string>
+    <string name="nickname_hint">What is your nickname?</string>
+</resources>
